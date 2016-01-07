@@ -12,6 +12,9 @@ figure.logoleft img {
   max-width: 200px;
   margin: 0 20px;
   float: left;
+  background-color: white;
+  padding: 7px;
+  border-radius: 10px;
 }
 
 #forkongithub a {
