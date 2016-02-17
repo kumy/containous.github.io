@@ -15,7 +15,7 @@
       <pubDate>Fri, 11 Sep 2015 00:40:46 +0200</pubDate>
       
       <guid>https:///containo.us/post/about/</guid>
-      <description>&lt;p&gt;Founded in 2016 by Emile Vauge, Containous creates open-source infrastructure softwares for the modern datacenter.&lt;/p&gt;
+      <description>&lt;p&gt;Founded in 2016 by &lt;a href=&#34;https://github.com/EmileVauge&#34;&gt;Emile Vauge&lt;/a&gt;, Containous creates open-source infrastructure softwares for the modern datacenter.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,59 +27,17 @@
       <guid>https:///containo.us/post/opensource/</guid>
       <description>&lt;p&gt;We strongly believe in open-source. Our products are based on robust and modern tools:&lt;/p&gt;
 
+&lt;div class=&#34;grid&#34;&gt;
+   &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://docker.com&#34;&gt;&lt;img src=&#34;docker.logo.png&#34; class=&#34;logo&#34; alt=&#34;Docker&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+   &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://golang.org&#34;&gt;&lt;img src=&#34;golang.logo.png&#34; class=&#34;logo&#34; alt=&#34;Golang&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+   &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://mesos.apache.org&#34;&gt;&lt;img src=&#34;mesos.logo.png&#34; class=&#34;logo&#34; alt=&#34;Mesos&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://docker.com&#34;&gt;
-        &lt;img src=&#34;docker.logo.png&#34; alt=&#34;Docker&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://mesos.apache.org/&#34;&gt;
-        &lt;img src=&#34;mesos.logo.png&#34; alt=&#34;Mesos&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://consul.io&#34;&gt;
-        &lt;img src=&#34;etcd.logo.png&#34; alt=&#34;Etcd&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://consul.io&#34;&gt;
-        &lt;img src=&#34;consul.logo.png&#34; alt=&#34;Consul&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://git-scm.com/&#34;&gt;
-        &lt;img src=&#34;git.logo.png&#34; alt=&#34;Git&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://golang.org/&#34;&gt;
-        &lt;img src=&#34;golang.logo.png&#34; alt=&#34;Golang&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;div class=&#34;grid&#34;&gt;
+  &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://consul.io&#34;&gt;&lt;img src=&#34;consul.logo.png&#34; class=&#34;logo&#34; alt=&#34;Consul&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;&lt;img src=&#34;git.logo.png&#34; class=&#34;logo&#34; alt=&#34;Git&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://coreos.com/etcd&#34;&gt;&lt;img src=&#34;etcd.logo.png&#34; class=&#34;logo&#34; alt=&#34;Etcd&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -93,6 +51,15 @@
 It supports several backends (&lt;a href=&#34;https://www.docker.com/&#34;&gt;Docker&lt;/a&gt;, &lt;a href=&#34;https://mesosphere.github.io/marathon/&#34;&gt;Mesos/Marathon&lt;/a&gt;, &lt;a href=&#34;https://consul.io/&#34;&gt;Consul&lt;/a&gt;, &lt;a href=&#34;https://coreos.com/etcd/&#34;&gt;Etcd&lt;/a&gt;, &lt;a href=&#34;https://zookeeper.apache.org&#34;&gt;Zookeeper&lt;/a&gt;, &lt;a href=&#34;https://github.com/boltdb/bolt&#34;&gt;BoltDB&lt;/a&gt;, Rest API, file&amp;hellip;) to manage its configuration automatically and dynamically.&lt;/p&gt;
 
 &lt;p&gt;Visit the &lt;a href=&#34;http://traefik.io&#34;&gt;project&lt;/a&gt; page!&lt;/p&gt;
+
+
+&lt;figure class=&#34;left&#34;&gt;
+    &lt;a href=&#34;https://twitter.com/intent/follow?screen_name=traefikproxy&#34;&gt;
+        &lt;img src=&#34;https://img.shields.io/twitter/follow/traefikproxy.svg?style=social&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
 </description>
     </item>
     
