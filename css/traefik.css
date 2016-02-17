@@ -1,19 +1,37 @@
-figure.logo img {
+.grid {
+  overflow: auto;
   display: block;
-  max-height: 150px;
-  max-width: 200px;
-  width: auto;
-  margin: 0 auto;
-  line-height: 0;
+}
+.grid > div {
+  /*margin: 10px;*/
+  width: 200px;
+  height: 120px;
+  /*float: left;*/
+}
+
+.vcenter  {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.logo {
+  display: block;
+  /*max-height: 120px;*/
+  /*max-width: 120px;*/
+  width: 110px;
+
 }
 
 figure.logoleft img {
   max-height: 150px;
   max-width: 200px;
-  margin: 0 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 0px;
   float: left;
-  background-color: white;
-  padding: 7px;
+  background-color: #F2EFE8 ;
+  padding: 20px;
   border-radius: 10px;
 }
 

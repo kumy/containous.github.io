@@ -27,59 +27,17 @@
       <guid>https:///containo.us/post/opensource/</guid>
       <description>&lt;p&gt;We strongly believe in open-source. Our products are based on robust and modern tools:&lt;/p&gt;
 
+&lt;div class=&#34;grid&#34;&gt;
+   &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://docker.com&#34;&gt;&lt;img src=&#34;docker.logo.png&#34; class=&#34;logo&#34; alt=&#34;Docker&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+   &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://golang.org&#34;&gt;&lt;img src=&#34;golang.logo.png&#34; class=&#34;logo&#34; alt=&#34;Golang&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+   &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://mesos.apache.org&#34;&gt;&lt;img src=&#34;mesos.logo.png&#34; class=&#34;logo&#34; alt=&#34;Mesos&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://docker.com&#34;&gt;
-        &lt;img src=&#34;docker.logo.png&#34; alt=&#34;Docker&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://mesos.apache.org/&#34;&gt;
-        &lt;img src=&#34;mesos.logo.png&#34; alt=&#34;Mesos&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://consul.io&#34;&gt;
-        &lt;img src=&#34;etcd.logo.png&#34; alt=&#34;Etcd&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://consul.io&#34;&gt;
-        &lt;img src=&#34;consul.logo.png&#34; alt=&#34;Consul&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://git-scm.com/&#34;&gt;
-        &lt;img src=&#34;git.logo.png&#34; alt=&#34;Git&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure class=&#34;logo&#34;&gt;
-    &lt;a href=&#34;https://golang.org/&#34;&gt;
-        &lt;img src=&#34;golang.logo.png&#34; alt=&#34;Golang&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;div class=&#34;grid&#34;&gt;
+  &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://consul.io&#34;&gt;&lt;img src=&#34;consul.logo.png&#34; class=&#34;logo&#34; alt=&#34;Consul&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;&lt;img src=&#34;git.logo.png&#34; class=&#34;logo&#34; alt=&#34;Git&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div class=&#34;vcenter&#34;&gt;&lt;a href=&#34;https://coreos.com/etcd&#34;&gt;&lt;img src=&#34;etcd.logo.png&#34; class=&#34;logo&#34; alt=&#34;Etcd&#34;/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
