@@ -15,7 +15,7 @@
       <pubDate>Fri, 11 Sep 2015 00:40:46 +0200</pubDate>
       
       <guid>https:///containo.us/post/about/</guid>
-      <description>&lt;p&gt;Founded in 2016 by Emile Vauge, Containous creates open-source infrastructure softwares for the modern datacenter.&lt;/p&gt;
+      <description>&lt;p&gt;Founded in 2016 by &lt;a href=&#34;https://github.com/EmileVauge&#34;&gt;Emile Vauge&lt;/a&gt;, Containous creates open-source infrastructure softwares for the modern datacenter.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,10 +47,31 @@
       <pubDate>Fri, 11 Sep 2015 00:41:40 +0200</pubDate>
       
       <guid>https:///containo.us/post/tr%C3%A6fik/</guid>
-      <description>&lt;p&gt;Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
-It supports several backends (&lt;a href=&#34;https://www.docker.com/&#34;&gt;Docker&lt;/a&gt;, &lt;a href=&#34;https://mesosphere.github.io/marathon/&#34;&gt;Mesos/Marathon&lt;/a&gt;, &lt;a href=&#34;https://consul.io/&#34;&gt;Consul&lt;/a&gt;, &lt;a href=&#34;https://coreos.com/etcd/&#34;&gt;Etcd&lt;/a&gt;, &lt;a href=&#34;https://zookeeper.apache.org&#34;&gt;Zookeeper&lt;/a&gt;, &lt;a href=&#34;https://github.com/boltdb/bolt&#34;&gt;BoltDB&lt;/a&gt;, Rest API, file&amp;hellip;) to manage its configuration automatically and dynamically.&lt;/p&gt;
+      <description>
+&lt;figure &gt;
+    &lt;a href=&#34;https://traefik.io&#34;&gt;
+        &lt;img src=&#34;http://traefik.github.io/traefik.logo.svg&#34; alt=&#34;Træfɪk&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
 
-&lt;p&gt;Visit the &lt;a href=&#34;http://traefik.io&#34;&gt;project&lt;/a&gt; page!&lt;/p&gt;
+
+&lt;p&gt;Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
+It supports several backends  (&lt;a href=&#34;https://www.docker.com/&#34;&gt;Docker&lt;/a&gt;, &lt;a href=&#34;https://github.com/docker/swarm&#34;&gt;Swarm&lt;/a&gt;, &lt;a href=&#34;https://mesosphere.github.io/marathon/&#34;&gt;Mesos/Marathon&lt;/a&gt;, &lt;a href=&#34;https://www.consul.io/&#34;&gt;Consul&lt;/a&gt;, &lt;a href=&#34;https://coreos.com/etcd/&#34;&gt;Etcd&lt;/a&gt;, &lt;a href=&#34;https://zookeeper.apache.org&#34;&gt;Zookeeper&lt;/a&gt;, &lt;a href=&#34;https://github.com/boltdb/bolt&#34;&gt;BoltDB&lt;/a&gt;, Rest API, file&amp;hellip;) to manage its configuration automatically and dynamically.&lt;/p&gt;
+
+&lt;p&gt;Visit the &lt;a href=&#34;https://traefik.io&#34;&gt;project&lt;/a&gt; page!&lt;/p&gt;
+
+&lt;p&gt;You can join &lt;script async defer src=&#34;https://traefik.herokuapp.com/slackin.js?large&#34;&gt;&lt;/script&gt; to get basic support.
+If you prefer a commercial support, please contact &lt;a href=&#34;https://containo.us&#34;&gt;containo.us&lt;/a&gt; by mail &lt;a href=&#34;mailto:contact@containo.us&#34;&gt;contact@containo.us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;left&#34;&gt;
+    &lt;a href=&#34;https://twitter.com/intent/follow?screen_name=traefikproxy&#34;&gt;
+        &lt;img src=&#34;https://img.shields.io/twitter/follow/traefikproxy.svg?style=social&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -82,7 +103,7 @@ software products.&lt;/p&gt;
 &lt;/figure&gt;
 
 
-&lt;p&gt;Founded in 2014, Asteris creates next-generation infrastructure software for the modern datacenter. Asteris writes software that makes it easy for companies to implement continuous delivery and realtime data pipelines. We support the HashiCorp stack, along with Kubernetes, Apache Mesos, Spark and Kafka. We&amp;rsquo;re core committers on mantl.io, consul-cli and mesos-consul.&lt;/p&gt;
+&lt;p&gt;Founded in 2014, Asteris creates next-generation infrastructure software for the modern datacenter. Asteris writes software that makes it easy for companies to implement continuous delivery and realtime data pipelines. We support the HashiCorp stack, along with Kubernetes, Apache Mesos, Spark and Kafka. We&amp;rsquo;re core committers on &lt;a href=&#34;https://mantl.io&#34;&gt;mantl.io&lt;/a&gt;, consul-cli and mesos-consul.&lt;/p&gt;
 </description>
     </item>
     

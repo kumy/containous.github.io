@@ -3,10 +3,8 @@
   display: block;
 }
 .grid > div {
-  /*margin: 10px;*/
   width: 200px;
   height: 120px;
-  /*float: left;*/
 }
 
 .vcenter  {
@@ -16,10 +14,11 @@
 
 .logo {
   display: block;
-  /*max-height: 120px;*/
-  /*max-width: 120px;*/
   width: 110px;
+}
 
+figure.left img {
+  float: left;
 }
 
 figure.logoleft img {
